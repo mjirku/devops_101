@@ -4,8 +4,8 @@
 
 ## Cíle kurzu:
 
-- Seznámit studenty s koncepty a praktikami DevOps.
-- Poskytnout studentům dovednosti potřebné pro efektivní spolupráci mezi vývojem a provozem.
+- Seznámit s koncepty a praktikami DevOps.
+- Poskytnout dovednosti potřebné pro efektivní spolupráci mezi vývojem a provozem.
 - Zdůraznit automatizaci, kontejnerizaci a cloudové technologie v rámci DevOps.
 
 ---
@@ -71,32 +71,6 @@
 - Bezpečnostní principy a best practices v DevOps
 - Správa identit a přístupu (IAM)
 - Automatizované zabezpečení infrastruktury a aplikací
-
----
-
-## Metody výuky:
-
-- Interaktivní přednášky
-- Praktické cvičení a laboratoře
-- Projekty a case studies
-- Diskuze a spolupráce
-
----
-
-## Cílová skupina:
-
-- Vývojáři a programátoři
-- Systémoví administrátoři
-- DevOps inženýři a manažeři
-- Ostatní IT profesionálové se zájmem o DevOps
-
----
-
-## Předpoklady pro účast:
-
-- Základní znalost programování (preferovaně v Pythonu, Bash nebo jiném jazyce)
-- Základní znalost práce s operačními systémy (Unix/Linux)
-- Základní znalost verzovacího systému Git
 
 ---
 
